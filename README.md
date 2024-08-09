@@ -12,7 +12,7 @@
 
 ⚡ Fun fact: In my free time, you can find me researching new technology trends or enjoying outdoor hikes. Understanding the complexity of the world of technology and acquiring new knowledge is a true passion of mine.
 
-# Teknoloji Yığını 💻
+# Tech Stack 💻
 <p>
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="30">
