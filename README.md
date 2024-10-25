@@ -1,23 +1,20 @@
-👋 Hi, I'm @SudeErzurumlu. I'm known for my passion for the world of technology, and I've gained experience in various fields throughout my career.
+👋 **Hello, I’m Sude Erzurumlu.** I'm known for my passion for the world of technology and have gained experience across various fields throughout my career.
 
-👀 I have a particular interest in areas such as embedded systems, artificial intelligence, and data analysis. While working in these areas, I'm passionately committed to solving complex problems and generating innovative solutions.
+👀 **Areas of Interest:** I aim to deepen my knowledge in areas such as embedded systems, artificial intelligence, and data analysis. While working in these fields, I am driven by my passion for solving complex problems and generating innovative solutions.
 
-🌱 Currently, I'm diving deep into embedded systems and expanding my knowledge and skills in the field of artificial intelligence. Additionally, I'm engaging in various training programs to enhance my leadership and entrepreneurial skills.
+🌱 **Development Journey:** Currently, I am diving deep into embedded systems and expanding my knowledge and skills in artificial intelligence. Additionally, I am engaging in various training programs to enhance my leadership and entrepreneurial abilities.
 
-🚀 I'm looking to collaborate on innovative projects and share my knowledge and experience with them. I'm always open to teamwork and tackling challenging technological issues.
+🚀 **Collaboration:** I am open to opportunities for collaboration on innovative projects and sharing my knowledge and experiences. I value teamwork and am always ready to tackle challenging technological issues.
 
-📫 You can reach out to me via DM or connect with me on LinkedIn. I'm eager to seize any opportunity related to technology and innovation!
+📫 **Contact:** Feel free to reach out to me via DM or connect with me on LinkedIn [here](https://www.linkedin.com/in/aysesudeerzurumlu). I am eager to seize any opportunity related to technology and innovation!
 
-💗 Pronouns: She/her
-
-⚡ Fun fact: In my free time, you can find me researching new technology trends or enjoying outdoor hikes. Understanding the complexity of the world of technology and acquiring new knowledge is a true passion of mine.
+💗 **Fun Fact:** In my free time, you can find me researching new technology trends or enjoying outdoor hikes. Understanding the complexities of the tech world and acquiring new knowledge is a true source of motivation for me.
 
 # Tech Stack 💻
 <p>
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" height="30">
@@ -30,6 +27,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" height="30">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" height="30">
