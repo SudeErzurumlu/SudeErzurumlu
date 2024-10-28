@@ -46,3 +46,33 @@
   <img src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white" height="36">
   <img src="https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=white" height="36">
 </p>
+
+# 📊 GitHub Stats:
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sudeerzurumlu&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudeerzurumlu&theme=dark&hide_border=false" alt="GitHub Streak">
+    </td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=sudeerzurumlu&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeerzurumlu&theme=dark&hide_border=false&layout=compact" alt="Most Used Languages">
+    </td>
+  </tr>
+</table>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+
+<!--[![](https://visitcount.itsvg.in/api?id=sudeerzurumlu&icon=2&color=0)](https://visitcount.itsvg.in)--> 
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudeerzurumlu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
+
