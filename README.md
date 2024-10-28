@@ -1,4 +1,4 @@
-👋 **Hello, I’m Sude Erzurumlu.** I'm known for my passion for the world of technology and have gained experience across various fields throughout my career.
+👋 **Hello, I’m Ayşe Sude Erzurumlu.** I'm known for my passion for the world of technology and have gained experience across various fields throughout my career.
 
 👀 **Areas of Interest:** I aim to deepen my knowledge in areas such as embedded systems, artificial intelligence, and data analysis. While working in these fields, I am driven by my passion for solving complex problems and generating innovative solutions.
 
@@ -10,7 +10,7 @@
 
 💗 **Fun Fact:** In my free time, you can find me researching new technology trends or enjoying outdoor hikes. Understanding the complexities of the tech world and acquiring new knowledge is a true source of motivation for me.
 
-# Tech Stack 💻
+# Tech Stack 💻 
 <p>
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" height="36">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="36">
