@@ -63,7 +63,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=SudeErzurumlu&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies">
+      <img src="https://github-profile-trophy.vercel.app/?username=SudeErzurumlu&theme=dark&hub&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies">
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeerzurumlu&theme=dark&hide_border=false&layout=compact" alt="Most Used Languages">
