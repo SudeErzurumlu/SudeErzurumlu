@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=white" height="36">
 </p>
 
+
 # 📊 GitHub Stats:
 <table>
   <tr>
@@ -56,21 +57,19 @@
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudeerzurumlu&theme=dark&hide_border=false" alt="GitHub Streak">
     </td>
-  </tr>
-</table>
-
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=SudeErzurumlu&theme=dark&hide_border=false&layout=compact" alt="GitHub Trophies">
-    </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeerzurumlu&theme=dark&hide_border=false&layout=compact" alt="Most Used Languages">
     </td>
   </tr>
 </table>
 
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sudeerzurumlu&theme=radical&no-frame=false&no-bg=true&margin-w=10&combine_all_yearly_contributions=true&column=9)
+
+
+## ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 
 <!--[![](https://visitcount.itsvg.in/api?id=sudeerzurumlu&icon=2&color=0)](https://visitcount.itsvg.in)--> 
