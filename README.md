@@ -1,14 +1,14 @@
 👋 **Hello, I’m Ayşe Sude Erzurumlu.** I'm known for my passion for the world of technology and have gained experience across various fields throughout my career.
 
-👀 **Areas of Interest:** I aim to deepen my knowledge in areas such as embedded systems, artificial intelligence, and data analysis. While working in these fields, I am driven by my passion for solving complex problems and generating innovative solutions.
+👀 **Areas of Interest:**  I aim to deepen my knowledge in areas such as embedded systems, artificial intelligence, and data analysis. While working in these fields, I am driven by my passion for solving complex problems and generating innovative solutions.
 
-🌱 **Development Journey:** Currently, I am diving deep into embedded systems and expanding my knowledge and skills in artificial intelligence. Additionally, I am engaging in various training programs to enhance my leadership and entrepreneurial abilities.
+🌱 **Development Journey:**  Currently, I am diving deep into embedded systems and expanding my knowledge and skills in artificial intelligence. Additionally, I am engaging in various training programs to enhance my leadership and entrepreneurial abilities.
 
-🚀 **Collaboration:** I am open to opportunities for collaboration on innovative projects and sharing my knowledge and experiences. I value teamwork and am always ready to tackle challenging technological issues.
+🚀 **Collaboration:**  I am open to opportunities for collaboration on innovative projects and sharing my knowledge and experiences. I value teamwork and am always ready to tackle challenging technological issues.
 
-📫 **Contact:** Feel free to reach out to me via DM or connect with me on LinkedIn [here](https://www.linkedin.com/in/aysesudeerzurumlu). I am eager to seize any opportunity related to technology and innovation!
+📫 **Contact:**  Feel free to reach out to me via DM or connect with me on LinkedIn [here](https://www.linkedin.com/in/aysesudeerzurumlu). I am eager to seize any opportunity related to technology and innovation!
 
-💗 **Fun Fact:** In my free time, you can find me researching new technology trends or enjoying outdoor hikes. Understanding the complexities of the tech world and acquiring new knowledge is a true source of motivation for me.
+💗 **Fun Fact:**  In my free time, you can find me researching new technology trends or enjoying outdoor hikes. Understanding the complexities of the tech world and acquiring new knowledge is a true source of motivation for me.
 
 # Tech Stack 💻 
 <p>
