@@ -68,9 +68,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sudeerzurumlu&theme=radical&no-frame=false&no-bg=true&margin-w=10&combine_all_yearly_contributions=true&column=9)
 
-
+<!---
 ## ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"> --->
 
 <!--[![](https://visitcount.itsvg.in/api?id=sudeerzurumlu&icon=2&color=0)](https://visitcount.itsvg.in)--> 
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudeerzurumlu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
