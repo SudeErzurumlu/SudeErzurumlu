@@ -1,14 +1,24 @@
-👋 **Hello, I’m Ayşe Sude Erzurumlu.** I'm known for my passion for the world of technology and have gained experience across various fields throughout my career.
+👋 **Hello, I’m Ayşe Sude Erzurumlu.** I’m a 16-year-old developer and entrepreneur with a strong passion for technology. I specialize in artificial intelligence, web development, and innovative projects that create meaningful impact.
 
-👀 **Areas of Interest:** I aim to deepen my knowledge in areas such as embedded systems, artificial intelligence, and data analysis. While working in these fields, I am driven by my passion for solving complex problems and generating innovative solutions.
+👀 **Areas of Interest:** My interests revolve around artificial intelligence (AI), natural language processing (NLP), high-performance computing (HPC), post-quantum cryptography, and advanced cybersecurity. I’m also passionate about creating educational technologies and exploring futuristic solutions in AI and web development.
 
-🌱 **Development Journey:** Currently, I am diving deep into embedded systems and expanding my knowledge and skills in artificial intelligence. Additionally, I am engaging in various training programs to enhance my leadership and entrepreneurial abilities.
+🌱 **Development Journey:**  
+- I’m actively working on **Mentoras**, an AI-driven assistant to guide students in their learning journeys.  
+- Developing **FlickSearch**, a national and independent search engine and browser project.  
+- Leading initiatives like **PostQuantumCrypto**, where I focus on building faster and more secure encryption algorithms.  
+- Actively participating in **QuantumFlow**, a team aimed at revolutionizing robotics and competing in international contests like CERS Beamline.  
+- Collaborating on **T3 AI**, one of Turkey's largest LLM (Large Language Model) projects.  
 
-🚀 **Collaboration:** I am open to opportunities for collaboration on innovative projects and sharing my knowledge and experiences. I value teamwork and am always ready to tackle challenging technological issues.
+🚀 **Achievements:**  
+- **TEKNOFEST 2024**: Achieved 2nd place in the Health AI category.  
+- Ongoing contributions to national technology and international innovation projects.  
+- Experienced in leadership roles, including my role as Software Captain at **Anomaly Architects**.
 
-📫 **Contact:** Feel free to reach out to me via DM or connect with me on LinkedIn [here](https://www.linkedin.com/in/aysesudeerzurumlu). I am eager to seize any opportunity related to technology and innovation!
+🌟 **Collaboration:** I’m always open to working on innovative and challenging projects. My focus is on fostering teamwork, solving complex problems, and sharing knowledge to inspire others. If you have a project idea or collaboration opportunity, let’s connect!
 
-💗 **Fun Fact:** In my free time, you can find me researching new technology trends or enjoying outdoor hikes. Understanding the complexities of the tech world and acquiring new knowledge is a true source of motivation for me.
+📫 **Contact:** Feel free to reach out via DM or connect with me on [LinkedIn](https://www.linkedin.com/in/aysesudeerzurumlu). I’m open to exploring exciting opportunities in technology and entrepreneurship.
+
+💗 **Fun Fact:** Outside of work, I love exploring new tech trends, engaging in outdoor activities, and crafting creative solutions for everyday challenges.
 
 # Tech Stack 💻 
 <p>
