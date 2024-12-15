@@ -1,24 +1,32 @@
-👋 **Hello, I’m Ayşe Sude Erzurumlu.** I’m a 16-year-old developer and entrepreneur with a strong passion for technology. I specialize in artificial intelligence, web development, and innovative projects that create meaningful impact.
+# 👋 Hi, I’m Ayşe Sude Erzurumlu!
 
-👀 **Areas of Interest:** My interests revolve around artificial intelligence (AI), natural language processing (NLP), high-performance computing (HPC), post-quantum cryptography, and advanced cybersecurity. I’m also passionate about creating educational technologies and exploring futuristic solutions in AI and web development.
+I am a 16-year-old software developer and entrepreneur with a strong passion for technology. My focus lies in artificial intelligence, web development, and creating innovative projects that make a meaningful impact.
 
-🌱 **Development Journey:**  
-- I’m actively working on **Mentoras**, an AI-driven assistant to guide students in their learning journeys.  
-- Developing **FlickSearch**, a national and independent search engine and browser project.  
-- Leading initiatives like **PostQuantumCrypto**, where I focus on building faster and more secure encryption algorithms.  
-- Actively participating in **QuantumFlow**, a team aimed at revolutionizing robotics and competing in international contests like CERS Beamline.  
-- Collaborating on **T3 AI**, one of Turkey's largest LLM (Large Language Model) projects.  
+## 👀 Interests
+- **Artificial Intelligence (AI):** Specialized in Natural Language Processing (NLP) and building education-focused AI solutions.
+- **Cybersecurity:** Exploring advanced security systems and post-quantum cryptography.
+- **Educational Technologies:** Developing cutting-edge platforms to enhance learning experiences.
+- **High-Performance Computing (HPC):** Optimizing deep learning models and large datasets for scalable systems.
 
-🚀 **Achievements:**  
-- **TEKNOFEST 2024**: Achieved 2nd place in the Health AI category.  
-- Ongoing contributions to national technology and international innovation projects.  
-- Experienced in leadership roles, including my role as Software Captain at **Anomaly Architects**.
+## 🌱 Current Projects
+- **Mentoras:** An AI-powered assistant guiding students through their learning journeys.
+- **FlickSearch:** Building Turkey’s first national and independent search engine and browser.
+- **QuantumFlow:** Innovating in robotics, with plans to compete in CERN Beamline and international competitions.
+- **T3 AI:** Contributing as a developer to one of Turkey’s largest Large Language Model (LLM) projects.
 
-🌟 **Collaboration:** I’m always open to working on innovative and challenging projects. My focus is on fostering teamwork, solving complex problems, and sharing knowledge to inspire others. If you have a project idea or collaboration opportunity, let’s connect!
+## 🚀 Achievements
+- **TEKNOFEST 2024:** Secured 2nd place in the AI in Healthcare category and became an NLP finalist.
+- **Anomaly Architects:** Leading as a software captain, contributing to successful projects.
+- Participated and contributed to various national and international tech competitions.
 
-📫 **Contact:** Feel free to reach out via DM or connect with me on [LinkedIn](https://www.linkedin.com/in/aysesudeerzurumlu). I’m open to exploring exciting opportunities in technology and entrepreneurship.
+## 🌟 Open for Collaborations
+I’m always open to working on innovative and challenging projects. My focus is on fostering teamwork, solving complex problems, and sharing knowledge to inspire others. If you have a project idea or collaboration opportunity, let’s connect!
 
-💗 **Fun Fact:** Outside of work, I love exploring new tech trends, engaging in outdoor activities, and crafting creative solutions for everyday challenges.
+## 📫 How to Reach Me
+Feel free to contact me via DM or connect with me on LinkedIn. I’m excited to explore opportunities in technology and entrepreneurship.
+
+## 💡 Fun Fact
+If I get frustrated with a programming language, I might just create my own. Yes, I love turning challenges into possibilities!
 
 # Tech Stack 💻 
 <p>
