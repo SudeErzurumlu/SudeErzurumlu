@@ -63,6 +63,27 @@ If I get frustrated with a programming language, I might just create my own. Yes
   <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white" height="36">
   <img src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white" height="36">
   <img src="https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=white" height="36">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="36">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" height="36">
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" height="36">
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" height="36">
+  <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" height="36">
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" height="36">
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" height="36">
+  <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white" height="36">
+  <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white" height="36">
+  <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white" height="36">
+  <img src="https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white" height="36">
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" height="36">
+  <img src="https://img.shields.io/badge/-Perl-39457E?style=flat&logo=perl&logoColor=white" height="36">
+  <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" height="36">
+  <img src="https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white" height="36">
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" height="36">
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" height="36">
+  <img src="https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white" height="36">
+  <img src="https://img.shields.io/badge/-Elixir-4B275F?style=flat&logo=elixir&logoColor=white" height="36">
+  <img src="https://img.shields.io/badge/-Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white" height="36">
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" height="36">
 </p>
 
 
