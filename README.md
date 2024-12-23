@@ -1,6 +1,4 @@
-# 👋 Hi, I’m Ayşe Sude 
-
-<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="aysesudeerzurumlu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/aysesudeerzurumlu?trk=profile-badge">Ayşe Sude Erzurumlu</a></div>
+# 👋 Hi, I’m <div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="aysesudeerzurumlu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/aysesudeerzurumlu?trk=profile-badge">Ayşe Sude Erzurumlu</a></div>
               
 I am a 16-year-old software developer and entrepreneur with a strong passion for technology. My focus lies in artificial intelligence, web development, and creating innovative projects that make a meaningful impact.
 
