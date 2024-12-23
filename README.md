@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Ayşe Sude Erzurumlu!
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 I am a 16-year-old software developer and entrepreneur with a strong passion for technology. My focus lies in artificial intelligence, web development, and creating innovative projects that make a meaningful impact.
 
 ## 👀 Interests
