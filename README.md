@@ -28,63 +28,60 @@ Feel free to contact me via DM or connect with me on LinkedIn. I’m excited to 
 ## 💡 Fun Fact
 If I get frustrated with a programming language, I might just create my own. Yes, I love turning challenges into possibilities!
 
-# Tech Stack 💻 
-<p>
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Perl-39457E?style=flat&logo=perl&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-VHDL-4E9B1A?style=flat&logo=vhdl&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Verilog-000000?style=flat&logo=verilog&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Shell%20Scripting-F0E9D0?style=flat&logo=linux&logoColor=black" height="36">
-  <img src="https://img.shields.io/badge/-Objective--C-2C8DBB?style=flat&logo=objective-c&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-F%23-239120?style=flat&logo=c-sharp&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-ActionScript-8A2D8D?style=flat&logo=actionscript&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="36">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" height="36">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Fusion-2D9CDB?style=flat&logo=fusion&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" height="36">
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Matplotlib-2C5BB4?style=flat&logo=matplotlib&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" height="36">
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="36">
-</p>
+## 🔧 Technologies & Tools  
 
+### 🖥️ Programming Languages  
+
+My main programming languages are Python, C, C++, Go, JavaScript, TypeScript, Rust, and Solidity. I use these languages primarily in areas such as data science, machine learning, artificial intelligence, web development, performance-driven projects, blockchain, and smart contracts.
+
+- **C, C++, C#, Objective-C**  
+- **Python, Go, Dart, R, Julia, Ruby, Lua, Rust, F#**  
+- **Java, Kotlin, Swift, PHP, Perl, Scala, Haskell, TypeScript, JavaScript**  
+- **Solidity, VBA (Visual Basic for Applications), Bash, PowerShell, Groovy, Dart, Swift**  
+- **ActionScript, MATLAB, VHDL, Verilog, Xojo, Ada, TCL, LISP**  
+- **SML (Standard ML), OCaml, Forth, Erlang, Prolog, Elixir, Crystal, Nim**  
+- **Racket, AutoHotkey, D, Elm, Hack, HackLang, MQL (MetaQuotes Language)**  
+- **Vala, Vyper, Seed7, Uniface, Euphoria, Zig, REBOL**  
+- **Hack, AngelScript, Fantom, Clojure, Factor, JScript, Smalltalk**  
+- **Turing, Pike, Io, Julia, Datalog, ActionScript, Elm, Haxe**  
+- **Awk, PostScript, Modula-2, PureScript, LuaJIT, OCaml**
+
+### 🚀 Frameworks & Libraries  
+- **Web & Backend:** Django, Flask, Express.js, Next.js, FastAPI, NestJS, Spring Boot, Laravel, Ruby on Rails  
+- **Frontend & UI:** React, Vue.js, Angular, Svelte, Bootstrap, Tailwind CSS, Material-UI
+- **Mobile & Cross-Platform:** Flutter, React Native, Firebase, SwiftUI, Jetpack Compose, Xamarin, Ionic, Cordova  
+- **Machine Learning & AI:** TensorFlow, PyTorch, Keras, Scikit-learn, XGBoost, OpenCV, LightGBM, Caffe, Tesseract
+- **Data Science & Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Jupyter, SciPy, Dask, Vaex, Plotly, Bokeh  
+- **Big Data & Cloud Computing:** Apache Spark, Hadoop, Apache Kafka, Google Cloud AI, AWS SageMaker, Azure ML, Databricks, Docker, Kubernetes  
+- **DevOps & Automation:** Terraform, Ansible, Jenkins, CI/CD Pipelines, GitLab CI, CircleCI, Chef, Puppet, Helm  
+- **Blockchain & Smart Contracts:** Solidity, Hardhat, Web3.js, ethers.js, Truffle, IPFS, Hyperledger, Ethereum, Polkadot, Binance Smart Chain  
+- **Testing & QA:** Jest, Mocha, Cypress, Selenium, PyTest, JUnit, Postman, Chai, Jasmine, TestCafe  
+- **Version Control:** Git, GitHub, Bitbucket, Mercurial  
+- **Database & Data Storage:** PostgreSQL, MySQL, MongoDB, Redis, Cassandra, SQLite, OracleDB, Firebase Realtime DB, DynamoDB  
+- **Search & Indexing:** Elasticsearch, Solr, Algolia  
+- **Web Scraping & APIs:** BeautifulSoup, Scrapy, Axios, Fetch API, Requests, Selenium, Playwright, Puppeteer, Cheerio, lxml, PyQuery, HttpClient, Undici, Node-fetch, Browserless, Apify, PhantomJS, Splash, API Gateway, GraphQL, RESTful APIs, SOAP, OpenAPI (Swagger), Postman, Insomnia, RapidAPI, JSONPlaceholder, Swagger UI, MockAPI, Firebase Realtime Database API, Google Maps API, Twitter API, Instagram API, Facebook Graph API, YouTube Data API, Twilio API, Amazon S3 API, AWS SDK, Guzzle, Retrofit, Axios Mock Adapter, Socket.IO, WebSockets, MQTT, REST-assured, JSON Schema, Selenium Grid, Chrome DevTools Protocol, BeautifulSoup4, Requests-HTML, Puppeteer-cluster, HTTParty, XML-RPC, Harvest API, Spotify API, Dropbox API, Mailchimp API, Slack API, Stripe API, Twilio API, Firebase Cloud Functions, Node.js Express APIs, Flask RESTful APIs, Django Rest Framework (DRF), LoopBack, Hapi.js, FastAPI, Fastify, Redoc, OpenCage Geocoder API, OpenWeather API, Scrapy Splash, Scrapy Cluster, Newspaper3k, DataMiner, Octoparse, Mozenda, ParseHub, Kimono Labs, WebHarvy, Parse.ly API, AirTable API, SendGrid API, Google Sheets API, Google Calendar API, BigQuery API, Microsoft Graph API, Zuora API, Shopify API
+- **API Documentation:** Swagger, Postman, OpenAPI
+
+
+### ☁️ DevOps & Cloud Technologies  
+- **Docker, Kubernetes**  
+- **AWS, Azure**  
+- **CI/CD Pipelines**  
+
+### 🗄️ Database Systems  
+- **PostgreSQL, MySQL**  
+- **MongoDB, Redis**  
+
+### 🎨 UI/UX & Design Tools  
+- **Figma, Canva**
+- **InVision, Framer**  
+- **Autodesk Fusion 360, Unity UI Toolkit**  
+
+### 🐧 Operating Systems  
+- **Linux (Ubuntu, Kali, Mint, Pardus)**
+- **Linux (Ubuntu, Kali, Mint, Pardus, Arch, Debian)**  
+- **Windows (Windows 10, Windows 11, Windows Server)**  
+- **Unix (FreeBSD, OpenBSD)**  
 
 
 
