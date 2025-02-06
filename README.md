@@ -78,7 +78,6 @@ My main programming languages are Python, C, C++, Go, JavaScript, TypeScript, Ru
 - **Autodesk Fusion 360, Unity UI Toolkit**  
 
 ### 🐧 Operating Systems  
-- **Linux (Ubuntu, Kali, Mint, Pardus)**
 - **Linux (Ubuntu, Kali, Mint, Pardus, Arch, Debian)**  
 - **Windows (Windows 10, Windows 11, Windows Server)**  
 - **Unix (FreeBSD, OpenBSD)**  
